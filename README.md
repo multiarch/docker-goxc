@@ -30,6 +30,8 @@ Adding GO15VENDOREXPERIMENT=1
 $ 
 ```
 
+---
+
 Fetch and cross build [moul/anonuuid](https://github.com/moul/anonuuid).
 *(works out of the box with `docker` as the only dependency)*
 
