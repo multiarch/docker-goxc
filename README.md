@@ -1,6 +1,8 @@
 # docker-goxc
 :earth_africa: `goxc` Docker image
 
+![](https://raw.githubusercontent.com/multiarch/dockerfile/master/logo.jpg)
+
 * Docker Hub: https://hub.docker.com/r/multiarch/goxc/
 
 ## Usage
